@@ -1,6 +1,6 @@
 ### Hi there, I am Loy
 
-> A Front end developer from **HangZhou, China**.
+> A Front end developer from **GuangZhou, China**.
 
 ### 🏗️ Learning:
 
@@ -13,10 +13,6 @@
 
 - **WeChat** : loy_252818
 
-### 📊 Stats:
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=loycoder&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loycoder&layout=compact&theme=buefy&hide_border=true" alt="" /> |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ### 📈 Activity Graph:
 
